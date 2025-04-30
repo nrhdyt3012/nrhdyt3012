@@ -1,8 +1,6 @@
 # 💫 About Me:
-🌟 Saat ini saya sedang mengembangkan aplikasi mobile dan web, serta menganalisis data untuk mendukung pengambilan keputusan berbasis data.<br><br>🤝 Saya ingin berkolaborasi di proyek pengembangan perangkat lunak, khususnya dalam:<br>  📱 Mobile Development<br>  🌐 Front-End Web Development<br>  📊 Data Analysis<br><br>🆘 Saya mencari bantuan dengan meningkatkan skill front-end dan data analytics, serta ingin belajar dari mentor atau rekan kolaborator yang lebih berpengalaman.<br><br>📖 Saat ini saya sedang belajar teknologi terbaru di:<br>  📱 Mobile Development<br>  🌐 Web Front-End<br>  📊 Data Science dan Analisis Data<br><br>💬 Tanyakan padaku tentang:<br>✅ Pengembangan aplikasi Android<br>✅ Front-End Web (HTML, CSS, JS)<br>✅ Data Analysis dasar hingga menengah<br>
+🌟 Saat ini saya sedang mengembangkan aplikasi mobile dan web, serta menganalisis data untuk mendukung pengambilan keputusan berbasis data.<br>🤝 Saya ingin belajar dan berkolaborasi di proyek pengembangan perangkat lunak, khususnya dalam:Mobile Development, Front-End Web Development dan Data Analysis<br>🆘 Saya mencari bantuan dengan meningkatkan skill front-end dan data analytics, serta ingin belajar dari mentor atau rekan kolaborator yang lebih berpengalaman.
 
-
-## 🌐 Socials:
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nrhdyt_3012) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nrhdyt3012) 
