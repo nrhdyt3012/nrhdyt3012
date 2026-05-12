@@ -19,11 +19,9 @@
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nrhdyt3012&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Trophy](assets/trophy.svg)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nrhdyt3012&icon=0&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <picture>
