@@ -17,13 +17,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nrhdyt3012&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrhdyt3012&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="200"/>
 </div>
-
 ## 🏆 GitHub Trophies
-![Trophy](assets/trophy.svg)
+![](https://github-profile-trophy.vercel.app/?username=nrhdyt3012&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
+[![](https://visitcount.itsvg.in/api?id=nrhdyt3012&icon=0&color=1)](https://visitcount.itsvg.in)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nrhdyt3012/nrhdyt3012/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nrhdyt3012/nrhdyt3012/output/github-snake.svg" />
