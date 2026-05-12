@@ -1,0 +1,27 @@
+name: Fetch GitHub Trophy as Local File
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # otomatis setiap hari
+  workflow_dispatch:     # bisa dijalankan manual dari GitHub UI
+
+jobs:
+  fetch-trophy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Create assets directory
+        run: mkdir -p assets
+
+      - name: Download GitHub Trophy SVG
+        run: |
+          curl -L "https://github-profile-trophy.vercel.app/?username=nrhdyt3012&theme=radical&no-frame=false&no-bg=true&margin-w=4" -o assets/trophy.svg
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add assets/trophy.svg
+          git diff --cached --quiet || (git commit -m "Update trophy SVG [bot]" && git push)
