@@ -28,10 +28,6 @@ Undergraduate student at State University of Surabaya who loves building modern 
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7DF1E&center=true&vCenter=true&width=700&lines=Mobile+Developer;Front-End+Developer;Data+Analysis+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
-
----
-
 # 🚀 About Me
 
 - 📱 Interested in Mobile Development and Front-End Engineering
