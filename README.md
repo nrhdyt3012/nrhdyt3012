@@ -1,12 +1,14 @@
-<table>
-<tr>
-<td width="60%">
+<div align="center">
 
 # 👋 Hi, I'm Dwi Nurhidayat
 
 ### Mobile Developer • Front-End Developer • Data Analysis Enthusiast
 
-Undergraduate student at State University of Surabaya who loves building modern applications, exploring data, and continuously learning new technologies.
+Undergraduate student at State University of Surabaya  
+who loves building modern applications, exploring data,  
+and continuously learning new technologies.
+
+<img src="./assets/mario.gif" width="220"/>
 
 <br/>
 
@@ -16,15 +18,7 @@ Undergraduate student at State University of Surabaya who loves building modern 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurhidayatd63@gmail.com)
 [![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/nrhdyt3012)
 
-</td>
-
-<td width="40%" align="center">
-
-<img src="./assets/mario.gif" width="250"/>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -131,14 +125,3 @@ Undergraduate student at State University of Surabaya who loves building modern 
 </picture>
 
 </div>
-
----
-
-<div align="center">
-
-![](https://visitcount.itsvg.in/api?id=nrhdyt3012&icon=5&color=6)
-
-### Thanks for visiting my profile 🚀
-
-</div>
-```
