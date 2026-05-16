@@ -1,13 +1,21 @@
-<h1>Mobile Dev, Front-End, and Data Analysis Enthusiast</h1>
-<p>Undergraduate at State University of Surabaya | Passionate in Mobile Dev, Front-End, and Data Analysis | Eager to Learn & Collaborate</p>
-
-<h2>⚡️ Where to find me</h2>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nrhdyt_3012)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nrhdyt3012)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurhidayatd63@gmail.com)
-[![Dev.to](https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nrhdyt3012)
-
+<table>
+  <tr>
+    <td width="50%">
+      <h1>Mobile Dev, Front-End, and Data Analysis Enthusiast</h1>
+      <p>Undergraduate at State University of Surabaya | Passionate in Mobile Dev, Front-End, and Data Analysis | Eager to Learn & Collaborate</p>
+      
+      <h2>⚡️ Where to find me</h2>
+      
+      [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nrhdyt_3012)
+      [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nrhdyt3012)
+      [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurhidayatd63@gmail.com)
+      [![Dev.to](https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/nrhdyt3012)
+    </td>
+    <td width="50%" align="center">
+      <img src="https://media1.tenor.com/m/yMPf0tADW-QAAAAC/super-mario-world-yoshi.gif" alt="Yoshi GIF" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 # 💻 Tech Stack:
 
