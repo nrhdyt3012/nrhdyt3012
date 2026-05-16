@@ -6,7 +6,7 @@
 
 Undergraduate student at State University of Surabaya who loves building modern applications, exploring data, and continuously learning new technologies.
 
-<img src="https://media1.tenor.com/m/yMPf0tADW-QAAAAC/super-mario-world-yoshi.gif" width="260"/>
+<img src="./assets/mario.gif" width="260"/>
 
 <br/>
 
