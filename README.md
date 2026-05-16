@@ -89,26 +89,25 @@ and continuously learning new technologies.
 
 # 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td width="33.33%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nrhdyt3012&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true" height="180"/>
-    </td>
-    <td width="33.33%">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nrhdyt3012&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="180"/>
-    </td>
-    <td width="33.33%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrhdyt3012&theme=dark&hide_border=true" height="180"/>
-    </td>
-  </tr>
-</table>
----
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nrhdyt3012&show_icons=true&theme=onedark"/>
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nrhdyt3012&layout=compact&theme=onedark"/>
+
+</div>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=nrhdyt3012&theme=onedark"/>
+
+</div>
 
 # 🏆 GitHub Trophies
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=nrhdyt3012&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=nrhdyt3012&theme=onedark&no-frame=true&no-bg=true&margin-w=10)
 
 </div>
 
