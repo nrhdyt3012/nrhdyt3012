@@ -17,7 +17,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nrhdyt3012&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true" height="180" style="display:inline-block; margin-right:10px;"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nrhdyt3012&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="180" style="display:inline-block;"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nrhdyt3012&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="200" style="display:inline-block;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrhdyt3012&theme=dark&hide_border=true" height="200" style="display:inline-block;"/>
 </div>
 
 ## 🏆 GitHub Trophies
