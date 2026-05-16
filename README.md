@@ -1,25 +1,34 @@
-<div align="center">
+<table>
+<tr>
+<td width="60%">
 
-# 👋 Hi, I'm Nur Hidayat
+# 👋 Hi, I'm Dwi Nurhidayat
 
 ### Mobile Developer • Front-End Developer • Data Analysis Enthusiast
 
 Undergraduate student at State University of Surabaya who loves building modern applications, exploring data, and continuously learning new technologies.
 
-<img src="./assets/mario.gif" width="260"/>
-
 <br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nrhdyt_3012)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nrhdyt3012)
+
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurhidayatd63@gmail.com)
 [![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/nrhdyt3012)
 
-<br/>
+</td>
+
+<td width="40%" align="center">
+
+<img src="./assets/mario.gif" width="250"/>
+
+</td>
+</tr>
+</table>
+
+---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7DF1E&center=true&vCenter=true&width=700&lines=Mobile+Developer;Front-End+Developer;Data+Analysis+Enthusiast;Always+Learning+New+Things)](https://git.io/typing-svg)
-
-</div>
 
 ---
 
@@ -85,19 +94,6 @@ Undergraduate student at State University of Surabaya who loves building modern 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-# 📌 Featured Projects
-
-## 🌐 SEO Website Project
-> A web project indexed by Google Search Engine with focus on responsive UI and search optimization.
-
-## 📊 Data Analysis Projects
-> Exploratory Data Analysis, visualization dashboards, and machine learning practice projects using Python and R.
-
-## 📱 Mobile App Development
-> Mobile applications built using Flutter and modern mobile development practices.
 
 ---
 
