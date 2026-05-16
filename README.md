@@ -1,37 +1,43 @@
-<div align="center">
+<table>
+<tr>
+
+<td width="65%" valign="top">
 
 # 👋 Hi, I'm Dwi Nurhidayat
 
 ### Mobile Developer • Front-End Developer • Data Analysis Enthusiast
 
-Undergraduate student at State University of Surabaya  
-who loves building modern applications, exploring data,  
-and continuously learning new technologies.
+Undergraduate student at State University of Surabaya who loves building modern applications, exploring data, and continuously learning new technologies.
 
-<img src="./assets/mario.gif" width="220"/>
+---
+
+## 🚀 About Me
+
+- 📱 Interested in Mobile Development and Front-End Engineering  
+- 📊 Learning Data Analysis, Machine Learning, and Data Visualization  
+- 🌱 Currently exploring modern web technologies and analytics workflows  
+- 🎯 Passionate about building useful and impactful digital products  
+- 🤝 Open to collaboration, internship opportunities, and tech communities  
 
 <br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nrhdyt_3012)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nrhdyt3012)
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nurhidayatd63@gmail.com)
 [![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/nrhdyt3012)
 
-</div>
+</td>
+
+<td width="35%" align="center">
+
+<img src="./assets/ngoding.gif" width="320"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
-
-# 🚀 About Me
-
-- 📱 Interested in Mobile Development and Front-End Engineering
-- 📊 Learning Data Analysis, Machine Learning, and Data Visualization
-- 🌱 Currently exploring modern web technologies and analytics workflows
-- 🎯 Passionate about building useful and impactful digital products
-- 🤝 Open to collaboration, internship opportunities, and tech communities
-
----
-
 # 💻 Tech Stack
 
 ## 📱 Mobile Development
