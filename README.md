@@ -103,15 +103,7 @@ Undergraduate student at State University of Surabaya who loves building modern 
 
 # 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nrhdyt3012&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrhdyt3012&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=nrhdyt3012&theme=tokyonight&hide_border=true"/>
-
-</div>
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=nrhdyt3012&show_icons=true&theme=tokyonight&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrhdyt3012&layout=compact&theme=tokyonight&hide_border=true"/> <img height="170" src="https://streak-stats.demolab.com?user=nrhdyt3012&theme=tokyonight&hide_border=true"/> </div>
 
 ---
 
