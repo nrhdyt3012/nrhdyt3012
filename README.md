@@ -11,15 +11,23 @@
 
 # 💻 Tech Stack:
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 # 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nrhdyt3012&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true" height="180" style="display:inline-block; margin-right:10px;"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nrhdyt3012&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="200" style="display:inline-block;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrhdyt3012&theme=dark&hide_border=true" height="200" style="display:inline-block;"/>
-</div>
+<table>
+  <tr>
+    <td width="33.33%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nrhdyt3012&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true" height="180"/>
+    </td>
+    <td width="33.33%">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nrhdyt3012&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=true&layout=compact" height="180"/>
+    </td>
+    <td width="33.33%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrhdyt3012&theme=dark&hide_border=true" height="180"/>
+    </td>
+  </tr>
+</table>
 
 ## 🏆 GitHub Trophies
 
