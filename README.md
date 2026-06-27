@@ -88,17 +88,17 @@ Undergraduate student at State University of Surabaya passionate about modern ap
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nrhdyt3012&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nrhdyt3012&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrhdyt3012&layout=donut&theme=onedark&langs_count=8&hide=html,blade,css"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrhdyt3012&layout=compact&theme=onedark&langs_count=8&hide=html,blade"/>
 </a>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nrhdyt3012&theme=onedark)](https://git.io/streak-stats)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nrhdyt3012&theme=onedark"/>
 
 </div>
 
@@ -106,7 +106,7 @@ Undergraduate student at State University of Surabaya passionate about modern ap
 
 <div align="center">
 
-[![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=nrhdyt3012)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?username=nrhdyt3012&theme=onedark&no-frame=true&no-bg=true&margin-w=10)
 
 </div>
 
