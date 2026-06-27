@@ -88,7 +88,7 @@ Undergraduate student at State University of Surabaya passionate about modern ap
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nrhdyt3012&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nrhdyt3012&show_icons=true&theme=onedark"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrhdyt3012&layout=compact&theme=onedark&langs_count=8&hide=html,blade"/>
