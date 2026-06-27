@@ -106,7 +106,7 @@ Undergraduate student at State University of Surabaya passionate about modern ap
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=nrhdyt3012&theme=onedark&no-frame=true&no-bg=true&margin-w=10)
+![](https://trophygithubreadmelang.cybee.dpdns.org/?username=nrhdyt3012&theme=onestar)
 
 </div>
 
