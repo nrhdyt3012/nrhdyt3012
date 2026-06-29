@@ -83,30 +83,21 @@ Undergraduate student at State University of Surabaya passionate about modern ap
 
 ---
 
-# 📊 GitHub Stats
+<p align="center">
+  <img height="180em" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nrhdyt3012&show_icons=true&theme=onedark"/>
+  <img height="180em" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nrhdyt3012&theme=onedark"/>
+</p>
 
-<div align="center">
+<p align="center">
+ <img height="180em" width="70%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nrhdyt3012&hide=html,php,css&layout=compact"/>
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nrhdyt3012&show_icons=true&theme=onedark"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrhdyt3012&layout=compact&theme=onedark&langs_count=8&hide=html,blade,jupyter%20notebook,css"/>
-</a>
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nrhdyt3012&theme=onedark"/>
-
-</div>
 
 # 🏆 GitHub Trophies
 
-<div align="center">
+<div align="left">
 
-![](https://trophygithubreadmelang.cybee.dpdns.org/?username=nrhdyt3012&theme=onestar&no-frame=true&column=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+![](https://trophygithubreadmelang.cybee.dpdns.org/?username=nrhdyt3012&theme=onestar&no-frame=true&column=9&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C,?)
 
 </div>
 
