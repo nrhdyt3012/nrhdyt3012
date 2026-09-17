@@ -84,7 +84,7 @@ Undergraduate student at State University of Surabaya passionate about modern ap
 ---
 
 <p align="center">
-  <img height="180em" width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nrhdyt3012&show_icons=true&theme=onedark"/>
+  <img height="180em" width="48%" src="(https://github-stats-extended.vercel.app/api?username=nrhdyt3012&theme=radical"/>
   <img height="180em" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nrhdyt3012&theme=onedark"/>
 </p>
 
